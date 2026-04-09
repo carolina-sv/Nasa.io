@@ -1,11 +1,5 @@
 #  NASA.io | Space Exploration Hub
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-</p>
-
 > **Explore o cosmos através dos dados oficiais da NASA.** O NASA.io é uma plataforma web robusta que consome as APIs abertas da agência espacial para fornecer uma experiência visual e informativa sobre astronomia, exploração de Marte e objetos próximos à Terra.
 
 ---
